@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/wesley7137/RL_Multi_Agent_Biomolecular_Design/blob/main/assets/rl_agent.png)
 
-# "Reinforcement Learning-Driven Multi-Agent Framework for Biomolecular Design Targeting the Hallmarks of Aging: Integrating Cheminformatics and Multi-Objective Optimization to Discover Potential Therapeutics"
+## "Reinforcement Learning-Driven Multi-Agent Framework for Biomolecular Design Targeting the Hallmarks of Aging: Integrating Cheminformatics and Multi-Objective Optimization to Discover Potential Therapeutics"
 
 ## Project Overview
 
