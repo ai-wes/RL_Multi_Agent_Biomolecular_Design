@@ -1,0 +1,8 @@
+{
+    "model_name": "molecular_rl_agent_model_20240923_042401",
+    "average_reward": 3.39242865401658,
+    "model_checkpoint": "logs\\training_reports\\molecular_rl_agent_model_20240923_042401\\models\\molecular_rl_agent_model_20240923_042401_final_model.pth.tar",
+    "log_file": "logs\\training_reports\\molecular_rl_agent_model_20240923_042401\\molecular_rl_agent_model_20240923_042401_training_log.csv",
+    "txt_report": "logs\\training_reports\\molecular_rl_agent_model_20240923_042401\\reports\\training_report.txt",
+    "html_report": "logs\\training_reports\\molecular_rl_agent_model_20240923_042401\\reports\\training_report.html"
+}

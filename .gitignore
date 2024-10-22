@@ -1,0 +1,4 @@
+final_model.pth.tar
+logs/
+checkpoints/
+.history/
