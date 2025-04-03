@@ -162,6 +162,6 @@ This project is licensed under the MIT License.
 For inquiries, collaborations, or feedback, please reach out to:
 
 Name: [Your Name]
-Email: [your.email@example.com]
-LinkedIn: linkedin.com/in/yourprofile
-GitHub: github.com/yourusername
+Email: [weslagarde@gmail.com]
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/wes-lagarde-43ab38143/)]
+GitHub: github.com/ai-wes
